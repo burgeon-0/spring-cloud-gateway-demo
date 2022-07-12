@@ -1,4 +1,4 @@
-package org.burgeon.scgd;
+package org.bg181.scgd;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

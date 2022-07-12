@@ -1,4 +1,4 @@
-package org.burgeon.scgd.config;
+package org.bg181.scgd.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

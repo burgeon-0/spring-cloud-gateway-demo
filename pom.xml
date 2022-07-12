@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>org.burgeon</groupId>
+    <groupId>org.bg181</groupId>
     <artifactId>scgd</artifactId>
     <version>1.0.0</version>
     <name>scgd</name>

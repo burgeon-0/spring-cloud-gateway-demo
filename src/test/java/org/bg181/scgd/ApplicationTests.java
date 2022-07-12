@@ -1,4 +1,4 @@
-package org.burgeon.scgd;
+package org.bg181.scgd;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
